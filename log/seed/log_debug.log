@@ -1,0 +1,140 @@
+2019-02-27 10:22:54.824 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 10:25:30.328 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 10:28:49.368 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 10:32:59.440 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 10:33:57.795 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 10:34:02.375 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - ==>  Preparing: SELECT dm,mc_nr,sm FROM dic_administrative_act 
+2019-02-27 10:34:02.488 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - ==> Parameters: 
+2019-02-27 10:34:02.509 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - <==      Total: 27
+2019-02-27 10:57:47.194 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 10:58:41.421 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 10:59:23.587 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 10:59:28.674 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - ==>  Preparing: SELECT dm,mc_nr,sm FROM dic_administrative_act 
+2019-02-27 10:59:28.792 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - ==> Parameters: 
+2019-02-27 10:59:28.813 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - <==      Total: 27
+2019-02-27 10:59:55.525 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 11:00:00.658 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - ==>  Preparing: SELECT dm,mc_nr,sm FROM dic_administrative_act 
+2019-02-27 11:00:00.823 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - ==> Parameters: 
+2019-02-27 11:00:00.852 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - <==      Total: 27
+2019-02-27 11:07:51.937 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 11:07:56.927 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - ==>  Preparing: SELECT dm,mc_nr,sm FROM dic_administrative_act 
+2019-02-27 11:07:57.057 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - ==> Parameters: 
+2019-02-27 11:07:57.079 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - <==      Total: 27
+2019-02-27 11:25:27.873 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 11:25:32.647 [main] DEBUG c.u.s.d.DicAdministrativeActMapper.selectAll_COUNT - ==>  Preparing: SELECT count(0) FROM dic_administrative_act 
+2019-02-27 11:25:32.828 [main] DEBUG c.u.s.d.DicAdministrativeActMapper.selectAll_COUNT - ==> Parameters: 
+2019-02-27 11:25:32.849 [main] DEBUG c.u.s.d.DicAdministrativeActMapper.selectAll_COUNT - <==      Total: 1
+2019-02-27 11:25:32.854 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - ==>  Preparing: SELECT dm,mc_nr,sm FROM dic_administrative_act LIMIT ? 
+2019-02-27 11:25:32.857 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - ==> Parameters: 10(Integer)
+2019-02-27 11:25:32.860 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - <==      Total: 10
+2019-02-27 11:30:09.266 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 11:30:14.535 [main] DEBUG c.u.s.d.DicAdministrativeActMapper.selectAll_COUNT - ==>  Preparing: SELECT count(0) FROM dic_administrative_act 
+2019-02-27 11:30:14.694 [main] DEBUG c.u.s.d.DicAdministrativeActMapper.selectAll_COUNT - ==> Parameters: 
+2019-02-27 11:30:14.722 [main] DEBUG c.u.s.d.DicAdministrativeActMapper.selectAll_COUNT - <==      Total: 1
+2019-02-27 11:30:14.729 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - ==>  Preparing: SELECT dm,mc_nr,sm FROM dic_administrative_act LIMIT ? 
+2019-02-27 11:30:14.734 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - ==> Parameters: 10(Integer)
+2019-02-27 11:30:14.739 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - <==      Total: 10
+2019-02-27 11:33:34.801 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 11:33:40.054 [main] DEBUG c.u.s.d.DicAdministrativeActMapper.selectAll_COUNT - ==>  Preparing: SELECT count(0) FROM dic_administrative_act 
+2019-02-27 11:33:40.215 [main] DEBUG c.u.s.d.DicAdministrativeActMapper.selectAll_COUNT - ==> Parameters: 
+2019-02-27 11:33:40.231 [main] DEBUG c.u.s.d.DicAdministrativeActMapper.selectAll_COUNT - <==      Total: 1
+2019-02-27 11:33:40.236 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - ==>  Preparing: SELECT dm,mc_nr,sm FROM dic_administrative_act LIMIT ? 
+2019-02-27 11:33:40.239 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - ==> Parameters: 10(Integer)
+2019-02-27 11:33:40.243 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - <==      Total: 10
+2019-02-27 11:34:25.145 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 11:34:30.089 [main] DEBUG c.u.s.d.DicAdministrativeActMapper.selectAll_COUNT - ==>  Preparing: SELECT count(0) FROM dic_administrative_act 
+2019-02-27 11:34:30.298 [main] DEBUG c.u.s.d.DicAdministrativeActMapper.selectAll_COUNT - ==> Parameters: 
+2019-02-27 11:34:30.322 [main] DEBUG c.u.s.d.DicAdministrativeActMapper.selectAll_COUNT - <==      Total: 1
+2019-02-27 11:34:30.327 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - ==>  Preparing: SELECT dm,mc_nr,sm FROM dic_administrative_act LIMIT ? 
+2019-02-27 11:34:30.333 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - ==> Parameters: 10(Integer)
+2019-02-27 11:34:30.336 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectAll - <==      Total: 10
+2019-02-27 11:43:13.705 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 11:43:18.910 [main] DEBUG c.u.s.d.DicAdministrativeActMapper.selectByExample - ==>  Preparing: SELECT dm,mc_nr,sm FROM dic_administrative_act WHERE ( mc_nr = ? ) 
+2019-02-27 11:43:19.102 [main] DEBUG c.u.s.d.DicAdministrativeActMapper.selectByExample - ==> Parameters: 行政征用(String)
+2019-02-27 11:43:19.123 [main] DEBUG c.u.s.d.DicAdministrativeActMapper.selectByExample - <==      Total: 1
+2019-02-27 11:43:19.127 [main] DEBUG c.u.s.d.D.selectCountByExample - ==>  Preparing: SELECT COUNT(dm) FROM dic_administrative_act WHERE ( mc_nr = ? ) 
+2019-02-27 11:43:19.150 [main] DEBUG c.u.s.d.D.selectCountByExample - ==> Parameters: 行政征用(String)
+2019-02-27 11:43:19.152 [main] DEBUG c.u.s.d.D.selectCountByExample - <==      Total: 1
+2019-02-27 11:50:40.087 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 11:50:45.836 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.select - ==>  Preparing: SELECT dm,mc_nr,sm FROM dic_administrative_act WHERE dm = ? 
+2019-02-27 11:50:46.003 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.select - ==> Parameters: 18(String)
+2019-02-27 11:50:46.022 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.select - <==      Total: 1
+2019-02-27 11:50:46.024 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectOne - ==>  Preparing: SELECT dm,mc_nr,sm FROM dic_administrative_act WHERE dm = ? 
+2019-02-27 11:50:46.024 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectOne - ==> Parameters: 18(String)
+2019-02-27 11:50:46.025 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectOne - <==      Total: 1
+2019-02-27 11:50:46.026 [main] DEBUG c.u.s.d.D.selectByPrimaryKey - ==>  Preparing: SELECT dm,mc_nr,sm FROM dic_administrative_act WHERE dm = ? 
+2019-02-27 11:50:46.027 [main] DEBUG c.u.s.d.D.selectByPrimaryKey - ==> Parameters: 18(String)
+2019-02-27 11:50:46.028 [main] DEBUG c.u.s.d.D.selectByPrimaryKey - <==      Total: 1
+2019-02-27 11:51:25.951 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 11:51:31.266 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.select - ==>  Preparing: SELECT dm,mc_nr,sm FROM dic_administrative_act WHERE dm = ? 
+2019-02-27 11:51:31.457 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.select - ==> Parameters: 18(String)
+2019-02-27 11:51:31.486 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.select - <==      Total: 1
+2019-02-27 11:51:31.489 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectOne - ==>  Preparing: SELECT dm,mc_nr,sm FROM dic_administrative_act WHERE dm = ? 
+2019-02-27 11:51:31.489 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectOne - ==> Parameters: 18(String)
+2019-02-27 11:51:31.490 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectOne - <==      Total: 1
+2019-02-27 11:51:31.494 [main] DEBUG c.u.s.d.D.selectByPrimaryKey - ==>  Preparing: SELECT dm,mc_nr,sm FROM dic_administrative_act WHERE dm = ? 
+2019-02-27 11:51:31.495 [main] DEBUG c.u.s.d.D.selectByPrimaryKey - ==> Parameters: 18(String)
+2019-02-27 11:51:31.497 [main] DEBUG c.u.s.d.D.selectByPrimaryKey - <==      Total: 1
+2019-02-27 11:53:14.854 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 11:53:20.595 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.select - ==>  Preparing: SELECT dm,mc_nr,sm FROM dic_administrative_act WHERE dm = ? 
+2019-02-27 11:53:20.757 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.select - ==> Parameters: 18(String)
+2019-02-27 11:53:20.781 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.select - <==      Total: 1
+2019-02-27 11:53:20.784 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectOne - ==>  Preparing: SELECT dm,mc_nr,sm FROM dic_administrative_act WHERE dm = ? 
+2019-02-27 11:53:20.784 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectOne - ==> Parameters: 18(String)
+2019-02-27 11:53:20.785 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.selectOne - <==      Total: 1
+2019-02-27 11:53:20.786 [main] DEBUG c.u.s.d.D.selectByPrimaryKey - ==>  Preparing: SELECT dm,mc_nr,sm FROM dic_administrative_act WHERE dm = ? 
+2019-02-27 11:53:20.786 [main] DEBUG c.u.s.d.D.selectByPrimaryKey - ==> Parameters: 18(String)
+2019-02-27 11:53:20.787 [main] DEBUG c.u.s.d.D.selectByPrimaryKey - <==      Total: 1
+2019-02-27 11:53:20.789 [main] DEBUG c.u.s.d.D.selectByPrimaryKey - ==>  Preparing: SELECT dm,mc_nr,sm FROM dic_administrative_act WHERE dm = ? 
+2019-02-27 11:53:20.790 [main] DEBUG c.u.s.d.D.selectByPrimaryKey - ==> Parameters: 18(String)
+2019-02-27 11:53:20.791 [main] DEBUG c.u.s.d.D.selectByPrimaryKey - <==      Total: 1
+2019-02-27 11:53:20.792 [main] DEBUG c.u.s.dao.DicAdministrativeActMapper.selectCount - ==>  Preparing: SELECT COUNT(dm) FROM dic_administrative_act WHERE dm = ? 
+2019-02-27 11:53:20.826 [main] DEBUG c.u.s.dao.DicAdministrativeActMapper.selectCount - ==> Parameters: 18(String)
+2019-02-27 11:53:20.828 [main] DEBUG c.u.s.dao.DicAdministrativeActMapper.selectCount - <==      Total: 1
+2019-02-27 13:27:41.414 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 13:27:46.291 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.insert - ==>  Preparing: INSERT INTO dic_administrative_act ( dm,mc_nr,sm ) VALUES( ?,?,? ) 
+2019-02-27 13:27:46.408 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.insert - ==> Parameters: 257(String), null, null
+2019-02-27 13:27:46.414 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.insert - <==    Updates: 1
+2019-02-27 13:28:08.486 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 13:28:13.279 [main] DEBUG c.u.s.d.DicAdministrativeActMapper.insertSelective - ==>  Preparing: INSERT INTO dic_administrative_act ( dm ) VALUES( ? ) 
+2019-02-27 13:28:13.400 [main] DEBUG c.u.s.d.DicAdministrativeActMapper.insertSelective - ==> Parameters: 258(String)
+2019-02-27 13:28:13.404 [main] DEBUG c.u.s.d.DicAdministrativeActMapper.insertSelective - <==    Updates: 1
+2019-02-27 13:30:34.621 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 13:46:52.170 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 13:46:59.313 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 16:00:53.006 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 16:07:05.340 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 16:07:10.506 [main] DEBUG cn.ulegal.seed.dao.JudgesBeanMapper.insertList - ==>  Preparing: INSERT INTO case_judges ( name,type,identity_id,case_id,source ) VALUES ( ?,?,?,?,? ) , ( ?,?,?,?,? ) 
+2019-02-27 16:07:10.679 [main] DEBUG cn.ulegal.seed.dao.JudgesBeanMapper.insertList - ==> Parameters: null, null, null, 111(Integer), null, null, null, null, 111(Integer), null
+2019-02-27 16:08:53.614 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 16:08:58.829 [main] DEBUG cn.ulegal.seed.dao.JudgesBeanMapper.insertList - ==>  Preparing: INSERT INTO case_judges ( name,type,identity_id,case_id,source ) VALUES ( ?,?,?,?,? ) , ( ?,?,?,?,? ) 
+2019-02-27 16:08:59.040 [main] DEBUG cn.ulegal.seed.dao.JudgesBeanMapper.insertList - ==> Parameters: null, null, 111(String), null, null, null, null, 222(String), null, null
+2019-02-27 16:08:59.046 [main] DEBUG cn.ulegal.seed.dao.JudgesBeanMapper.insertList - <==    Updates: 2
+2019-02-27 16:10:19.735 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 16:10:25.503 [main] DEBUG cn.ulegal.seed.dao.JudgesBeanMapper.insertList - ==>  Preparing: INSERT INTO case_judges ( name,type,identity_id,case_id,source ) VALUES ( ?,?,?,?,? ) , ( ?,?,?,?,? ) 
+2019-02-27 16:10:25.686 [main] DEBUG cn.ulegal.seed.dao.JudgesBeanMapper.insertList - ==> Parameters: null, null, 111(String), null, null, null, null, 222(String), null, null
+2019-02-27 16:10:25.695 [main] DEBUG cn.ulegal.seed.dao.JudgesBeanMapper.insertList - <==    Updates: 2
+2019-02-27 16:11:12.616 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 16:11:18.346 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.insertList - ==>  Preparing: INSERT INTO dic_administrative_act ( mc_nr,sm ) VALUES ( ?,? ) , ( ?,? ) 
+2019-02-27 16:11:18.474 [main] DEBUG c.u.seed.dao.DicAdministrativeActMapper.insertList - ==> Parameters: null, null, null, null
+2019-02-27 16:25:16.945 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 16:30:55.034 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 16:41:35.913 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 16:41:41.556 [main] DEBUG c.u.s.d.D.updateByPrimaryKey - ==>  Preparing: UPDATE dic_administrative_act SET mc_nr = ?,sm = ? WHERE dm = ? 
+2019-02-27 16:41:41.712 [main] DEBUG c.u.s.d.D.updateByPrimaryKey - ==> Parameters: 666(String), null, 258(String)
+2019-02-27 16:41:41.719 [main] DEBUG c.u.s.d.D.updateByPrimaryKey - <==    Updates: 1
+2019-02-27 16:42:58.853 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 16:43:04.448 [main] DEBUG c.u.s.d.D.updateByPrimaryKeySelective - ==>  Preparing: UPDATE dic_administrative_act WHERE dm = ? 
+2019-02-27 16:44:19.325 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 16:44:24.703 [main] DEBUG c.u.s.d.D.updateByPrimaryKeySelective - ==>  Preparing: UPDATE dic_administrative_act SET sm = ? WHERE dm = ? 
+2019-02-27 16:44:24.911 [main] DEBUG c.u.s.d.D.updateByPrimaryKeySelective - ==> Parameters: 222(String), 258(String)
+2019-02-27 16:44:24.918 [main] DEBUG c.u.s.d.D.updateByPrimaryKeySelective - <==    Updates: 1
+2019-02-27 16:45:48.145 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 16:45:53.489 [main] DEBUG c.u.s.d.D.updateByPrimaryKeySelective - ==>  Preparing: UPDATE dic_administrative_act SET mc_nr = ?,sm = ? WHERE dm = ? 
+2019-02-27 16:45:53.710 [main] DEBUG c.u.s.d.D.updateByPrimaryKeySelective - ==> Parameters: (String), 222(String), 258(String)
+2019-02-27 16:45:53.722 [main] DEBUG c.u.s.d.D.updateByPrimaryKeySelective - <==    Updates: 1
+2019-02-27 17:13:56.499 [main] DEBUG cn.ulegal.seed.SeedApplication - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 17:16:12.591 [main] DEBUG cn.ulegal.seed.dao.DicAdministrativeActMapperTest - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2019-02-27 17:16:17.946 [main] DEBUG c.u.s.d.D.updateByPrimaryKeySelective - ==>  Preparing: UPDATE dic_administrative_act SET mc_nr = ?,sm = ? WHERE dm = ? 
+2019-02-27 17:16:18.105 [main] DEBUG c.u.s.d.D.updateByPrimaryKeySelective - ==> Parameters: 666(String), 222(String), 258(String)
+2019-02-27 17:16:18.112 [main] DEBUG c.u.s.d.D.updateByPrimaryKeySelective - <==    Updates: 1

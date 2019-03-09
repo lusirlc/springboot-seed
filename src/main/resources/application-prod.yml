@@ -11,7 +11,7 @@ spring:
   datasource:
     # 数据源配置
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://127.0.0.1:3306/student?useUnicode=true&characterEncoding=utf8&useSSL=false&tinyInt1isBit=true
+    url: jdbc:mysql://127.0.0.1:3306/student?useUnicode=true&characterEncoding=utf8&useSSL=false&tinyInt1isBit=true&allowMultiQueries=true
     username: root
     password: root
 
